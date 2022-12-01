@@ -1,8 +1,8 @@
 # BettleChatV2
 ### Description
 Real time chat with authentication using Django and Channels with PostgreSQL
-![Some pics](https://imgur.com/a/nVK53Y9)
-![](https://imgur.com/a/j10wU7R)
+![](Pic1.png)
+![](Pic2.png)
 
 ### Tech
 - Python 3.10
